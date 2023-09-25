@@ -8,6 +8,7 @@
 
 <h4>Services:</h4>
   <ul>
+  <li>IAM</li>
   <li>S3</li>
   <li>Route 53</li>
   <li>CloudFront</li>

@@ -1,6 +1,6 @@
 <h2><a href="https://cloudresumechallenge.dev/" target="_blank"><b>Cloud Resume Challenge</b></a></h2>
 
-<p>This is the first project I decided to undertake after completing the B.S. in Cloud Computing at WGU. I wanted more familiarity and experience with AWS's services, and this proved to be an insightful and interactive way of doing so. This challenge definitely provided a much stronger foundation of key AWS services. Being able to conceptualize the concepts beyond studying for various AWS certifications was interesting, and helped reinforce a lot of previous learning. This should serve as a great jumping off point into more challenging and unique projects.</p>
+<p>This is the first project I decided to undertake after completing the B.S. in Cloud Computing at WGU. I wanted more familiarity and experience with AWS's services, and this proved to be an insightful and interactive way of doing so. This challenge definitely provided a much stronger foundation of key AWS services. Being able to conceptualize the concepts beyond studying for various AWS certifications was interesting, and helped reinforce a lot of previous learning. This should serve as a great jumping off point into more challenging and unique projects. For completion, see https://ryangoddard.cloud</p>
 
 <h3>Rough Architecture Diagram</h3>
 
